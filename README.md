@@ -10,7 +10,7 @@ Despúes le hemos dado estilos con la tecnología CSS.
 
 ###Esperamos que os guste y lo disfruteis, igual que nosotras en nuestros primeros pasos
 
-![Gracias por la atencion!! Seguiremos trabajando](https://es.pinterest.com/pin/1127870300450072126/)
+![Gracias por la atencion!! Seguiremos trabajando](https://i.pinimg.com/736x/e2/c8/6d/e2c86d1c585aab0fda7f4e04808c4b57.jpg)
 
 
 
