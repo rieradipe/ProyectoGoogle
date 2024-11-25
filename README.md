@@ -6,7 +6,15 @@ En este ejercicio propuesto por FemCoders, tenemos que crear una página Web res
 #####Las tecnologías utilizadas: 
 Actualmente estamos formandonos, y probando muchas cosas. 
 En la primera fase, hemos construido nuestra Web con HTML, que es un lenguaje de marcado. 
-Despúes le hemos dado estilos con la tecnología CSS. 
+Despúes le hemos dado estilos con la tecnología CSS.
+Las imagenes y los Iconos han sido cedidos por nuestras profes
+#####Las teconologías que hemos probado, pero aún nos ganan son:
+git + github
+pencilcode
+playcode
+codesandboxs
+mail
+zoom
 
 ###Esperamos que os guste y lo disfruteis, igual que nosotras en nuestros primeros pasos
 
